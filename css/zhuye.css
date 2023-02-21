@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    user-select: none;
+}
+.qc{
+    clear: both;
+}
+body{
+    background-color: #ffffff;
+}
+a{
+    text-decoration: none;
+}
+/* 头部 */
+.cnm{
+    position:relative;
+}
+.xct{
+    width: 100%;
+}
+.dingbu{
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(1, 1, 1, 0);
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    position:absolute; top:0px; left:0px;
+}
+.txk{
+    height: 10vh;
+    border-radius: 5vh;
+    overflow: hidden;
+    display: block;
+    float: left;
+    margin-left: 1vh;
+    border: 1px solid #ffffff;
+}
+.tuxiang{
+    height: 100%;
+}
+.xct{
+    width: 100%;
+}
+.lxfs{
+    height: 10vh;
+    overflow: hidden;
+    display: block;
+    float: right;
+    margin-right: 1vh;
+}
+.bili{
+    height: 100%;
+}
+.geren{
+    margin: 0px auto;
+    text-align: center;
+    color: #eaf4fc;
+    font-size: 6vw;
+    position:absolute; top: 75%;
+    position: absolute; left: 50%;;
+    transform: translate(-50%, -50%);
+    width: 60%;
+}
+.jianjie{
+    color: #eaf4fc;
+    font-size: 4vw;
+}
+/* 头部 */
+/* 内容 */
+.dak{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #4d5aaf;
+    font-weight: bold;
+    margin-bottom: 5vw;
+    font-family: 华文黑体;
+}
+.aaaa{
+    width: 20%;
+    text-align: center;
+    line-height: 100%;
+    font-size: 3vw;
+}
+.shiping{
+    width: 100%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.aaa{
+    height: 5vh;
+}
+.hez{
+    display: flex;
+    justify-content: space-around;
+}
+.you{
+    width: 40%;
+}
+.zuo{
+    width: 40%;
+}
+.wzms{
+    width: 100%;
+    font-size: 3vw;
+    color: #4d5aaf;
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.nrjs{
+    margin: 0px auto;
+    text-align: center;
+    font-size: 5vw;
+    color: #eaf4fc;
+    font-family: 华文黑体;
+    background-color: #4d5aaf;
+    margin: 0 2% 0 2%;
+    padding: 2% 0 2% 0;
+    box-shadow: 0 0rem 2rem rgba(0,0,0,0.5) !important;
+}
+.nr{
+    width: 100%;
+    padding: 5vh 0px 5vh 0px;
+}
+.wac{
+    width: 100%;
+    margin-top: 4vh;
+    display: flex;
+    justify-content: space-around;
+}
+.wuqian{
+    width: 40%;
+    overflow: hidden;
+    box-shadow: 0 0rem 2rem rgba(0,0,0,0.5) !important;
+}
+.wuqian1{
+    width: 40%;
+    overflow: hidden;
+    box-shadow: 0 0rem 2rem rgba(0,0,0,0.5) !important;
+}
+.wq{
+    width: 100%;
+}
+/* 内容 */
+/* 底部 */
+.jiewei{
+    width: 100%;
+    height: 30vw;
+    background-color: #4d5aaf;
+}
+.jj{
+    width: 80%;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 10%;
+}
+.b{
+    margin: 0px auto;
+    font-size: 3vw;
+    width: 100%;
+    display: block;
+    color: #eaf4fc;
+    text-align: center;
+}
+.yx{
+    user-select: text;
+    text-align: center;
+    margin: 0px auto;
+    color: #eaf4fc;
+    font-size: 3vw;
+    width: 100%;
+}
+/* 底部 */
